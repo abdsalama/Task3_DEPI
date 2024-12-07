@@ -21,4 +21,17 @@ This is a simple **Movie List App** built using **Kotlin** and **Android Studio*
 3. **Exit Behavior**:
    - Clicking the back button closes the app instead of returning to the sign-in screen.
 
+## Screenshots
+
+### 1. Sign-In Screen
+<img src="screenshots/1.png" alt="Sign-In Screen" width="300"/>
+
+### 2. Movie List Screen
+<img src="screenshots/2.png" alt="Movie List Screen" width="300"/>
+
+### 3. Load More Button Clicked
+<img src="screenshots/3.png" alt="Load More Button" width="300"/>
+
+### 4. Load More Button Clicked and Button Disabled
+<img src="screenshots/4.png" alt="Final Movie List" width="300"/>
 
